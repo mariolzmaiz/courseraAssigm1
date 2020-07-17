@@ -1,1 +1,0 @@
-# courseraAssigm1
